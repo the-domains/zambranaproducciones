@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Podemos guiarle en el logro de sus objetivos comunicacionales.
-dateModified: '2017-10-06T21:14:07.719Z'
-datePublished: '2017-10-06T21:14:08.896Z'
+dateModified: '2017-10-06T22:42:16.917Z'
+datePublished: '2017-10-06T22:42:17.535Z'
 title: Utilice la poderosa herramienta del video en sus negocios.
 author: []
 publisher: {}
@@ -19,3 +19,5 @@ Podemos guiarle en el logro de sus objetivos comunicacionales.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/54573245-d68b-40d9-8723-b9e886fc2c2d.jpg)
 
 Nuestra principal área de trabajo es la producción de video. En la actualidad el video a redoblado su importancia, especialmente por su proliferación en la red. Los diferentes formatos narrativos existentes, se ajustan a cualquier realidad y necesidad en el ámbito de la comunicación, comercial o corporativa.
+
+<button data-role="cta" style="">Conoza más ...</button>
