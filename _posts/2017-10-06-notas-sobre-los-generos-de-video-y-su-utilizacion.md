@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   En la actualidad existen muchos géneros, acorde con los cuales se pueden crear
   videos.
-dateModified: '2017-10-06T22:55:27.650Z'
-datePublished: '2017-10-06T22:56:09.364Z'
+dateModified: '2017-10-07T04:21:01.850Z'
+datePublished: '2017-10-07T04:21:03.836Z'
 title: Notas sobre los géneros de video y su utilización
 author: []
 publisher: {}
@@ -84,16 +84,22 @@ Como su nombre lo indica, estos videos sirven para acompañar a los espectadores
 ---
 
 **Video comercial**
+
+**De Producto**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/34c3fe2f-18ef-4f19-8238-698be47f2914.jpg)
 
-**De Producto** Se trata del clásico comercial de televisión que apela novedad la exclusividad o la ventaja en la utilización de determinado producto o servicio. En muchas ocasiones se apoyan en la presentación de situaciones ficcionadas mediante las cuales se muestra el producto.
+Se trata del clásico comercial de televisión que apela novedad la exclusividad o la ventaja en la utilización de determinado producto o servicio. En muchas ocasiones se apoyan en la presentación de situaciones ficcionadas mediante las cuales se muestra el producto.
+
+**Infomercial**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/07340a46-f3fe-4a51-8207-0a850aad0918.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/de16dcbf-4243-48b6-911d-c1a17a6276ef.jpg)
 
-**Infomercial** Tiene una duración muy superior a la de un comercial de televisión, tanto que puede presentarse como un programa en si mismo, si es del caso. En su desarrollo se muestran las bondades de uno, o una linea de productos. Generalmente mediante la demostración o comparación con productos tradicionalmente comercializados en el mercado. Su exención posibilita la generación de empatía entre el espectador y aquellos que demuestran el producto.
+Tiene una duración muy superior a la de un comercial de televisión, tanto que puede presentarse como un programa en si mismo, si es del caso. En su desarrollo se muestran las bondades de uno, o una linea de productos. Generalmente mediante la demostración o comparación con productos tradicionalmente comercializados en el mercado. Su exención posibilita la generación de empatía entre el espectador y aquellos que demuestran el producto.
+
+**Tutorial**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5251ec3d-e52d-489f-805e-d952dd916b6c.jpg)
 
-Tutorial Presenta la utilización de un producto como experiencia de usuario. Son detallados pero no muy extensos, muestran lo fácil que es usar un producto y le recuerdan al consumidor sobre características o funciones disponibles en el producto que muchos usuarios omiten utilizar.
+Presenta la utilización de un producto como experiencia de usuario. Son detallados pero no muy extensos, muestran lo fácil que es usar un producto y le recuerdan al consumidor sobre características o funciones disponibles en el producto que muchos usuarios omiten utilizar.
 
 ---
 
