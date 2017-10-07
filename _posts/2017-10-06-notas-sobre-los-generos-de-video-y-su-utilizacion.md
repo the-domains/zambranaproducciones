@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   En la actualidad existen muchos géneros, acorde con los cuales se pueden crear
   videos.
-dateModified: '2017-10-07T04:43:22.503Z'
-datePublished: '2017-10-07T04:43:23.546Z'
+dateModified: '2017-10-07T04:45:44.844Z'
+datePublished: '2017-10-07T04:45:47.243Z'
 title: Notas sobre los géneros de video y su utilización
 author: []
 publisher: {}
@@ -66,7 +66,7 @@ Es similar al anterior pero esta dirigido a un grupo de empleados o clientes, de
 Testimonial
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7984da68-45b8-44ca-b39f-98817ee2ec65.jpg)
 
-Como su nombre lo indica en esos videos una o varias personas cuentan sus experiencias de vida, trabajo, salud, etc. en concordancia a la estrategia de comunicación, puede ser dirigido al publico en general o a un grupo especifico de espectadores.
+Como su nombre lo indica en esos videos una o varias personas cuentan sus experiencias de vida, trabajo, salud, etc. En concordancia a la estrategia de comunicación, puede ser dirigido al publico en general o a un grupo especifico de espectadores.
 
 **Formativo**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4e99fc8-8ecc-4468-98e6-1ecf63c66bbd.jpg)
