@@ -3,8 +3,8 @@ inFeed: false
 description: >-
   En la actualidad existen muchos géneros, acorde con los cuales se pueden crear
   videos.
-dateModified: '2017-10-07T04:25:02.928Z'
-datePublished: '2017-10-07T04:25:04.052Z'
+dateModified: '2017-10-07T04:34:42.444Z'
+datePublished: '2017-10-07T04:34:43.653Z'
 title: Notas sobre los géneros de video y su utilización
 author: []
 publisher: {}
@@ -36,7 +36,7 @@ En la actualidad existen muchos géneros, acorde con los cuales se pueden crear 
 **Video comercial**
 
 * De Producto
-* Publicitario
+* Infomercial
 * Tutorial
 * Demostrativo
 
