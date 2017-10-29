@@ -6,8 +6,8 @@ description: >-
   especializado en el cuidado y construcción de la reputación y credibilidad de
   sus clientes; evolucionamos permanentemente junto a las actuales tecnologías
   de la comunicación social.
-dateModified: '2017-10-29T01:55:24.032Z'
-datePublished: '2017-10-29T01:55:25.113Z'
+dateModified: '2017-10-29T01:55:53.187Z'
+datePublished: '2017-10-29T01:55:53.768Z'
 title: Quienes somos
 author: []
 publisher: {}
@@ -23,6 +23,8 @@ _type: Article
 ## Quienes somos
 
 Somos una agencia de Comunicación, representación artística y comercialización de espectáculos enfocada al artista, que ofrece un servicio estratégico y especializado en el cuidado y construcción de la reputación y credibilidad de sus clientes; evolucionamos permanentemente junto a las actuales tecnologías de la comunicación social.
+
+---
 
 Nuestras áreas de especialidad son:
 
