@@ -89,7 +89,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: Zambrana Producciones
-description: Empresa dedicada a la producción de contenido audiovisual.
+description: 'Comunicación, representación artística y comercialización de espectáculos '
 github: true
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4920a240-21f7-465b-87fa-bbb98ca98e3e.png
