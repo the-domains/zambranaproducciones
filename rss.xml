@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Zambrana Producciones]]></title>
+        <description><![CDATA[Zambrana Producciones]]></description>
+        <link>https://thegrid.ai/zambranaproducciones/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 Oct 2017 01:45:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zambranaproducciones/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quienes somos]]></title>
+            <description><![CDATA[<h2>Quienes somos</h2>,<p>Somos una agencia de Comunicación, representación artística y comercialización de espectáculos enfocada al artista, que ofrece un servicio estratégico y especializado en el cuidado y construcción de la reputación y credibilidad de sus clientes; evolucionamos permanentemente junto a las actuales tecnologías de la comunicación social.</p>]]></description>
+            <link>https://thegrid.ai/zambranaproducciones/quienes-somos/index.html</link>
+            <guid isPermaLink="false">ed6d75ea-1267-4245-b73b-f5a26aa8a8f3</guid>
+            <pubDate>Sun, 29 Oct 2017 01:45:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
