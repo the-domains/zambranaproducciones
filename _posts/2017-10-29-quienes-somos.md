@@ -6,16 +6,16 @@ description: >-
   especializado en el cuidado y construcción de la reputación y credibilidad de
   sus clientes; evolucionamos permanentemente junto a las actuales tecnologías
   de la comunicación social.
-dateModified: '2017-10-29T01:47:53.090Z'
-datePublished: '2017-10-29T01:47:53.660Z'
+dateModified: '2017-10-29T01:51:51.810Z'
+datePublished: '2017-10-29T01:51:52.474Z'
 title: Quienes somos
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-10-29-quienes-somos.md
 starred: false
 datePublishedOriginal: '2017-10-29T01:47:52.268Z'
-sourcePath: _posts/2017-10-29-quienes-somos.md
 url: quienes-somos/index.html
 _type: Article
 
