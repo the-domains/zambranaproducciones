@@ -6,8 +6,8 @@ description: >-
   especializado en el cuidado y construcción de la reputación y credibilidad de
   sus clientes; evolucionamos permanentemente junto a las actuales tecnologías
   de la comunicación social.
-dateModified: '2017-10-29T01:55:53.187Z'
-datePublished: '2017-10-29T01:55:53.768Z'
+dateModified: '2017-10-29T01:58:23.247Z'
+datePublished: '2017-10-29T01:58:23.836Z'
 title: Quienes somos
 author: []
 publisher: {}
@@ -39,3 +39,4 @@ Proyectos de éxito
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac74779-1e31-4db2-a9f7-61fc9b4d5bc2.jpg)
 
 **2017 Espectáculo. **_**"Dése un Chancecito"**_**. **En este proyecto nos encargamos de las relaciones publicas y la producción ejecutiva.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e49d02c-9d70-4020-8600-33799611e932.jpg)
