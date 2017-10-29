@@ -6,8 +6,8 @@ description: >-
   especializado en el cuidado y construcción de la reputación y credibilidad de
   sus clientes; evolucionamos permanentemente junto a las actuales tecnologías
   de la comunicación social.
-dateModified: '2017-10-29T01:58:23.247Z'
-datePublished: '2017-10-29T01:58:23.836Z'
+dateModified: '2017-10-29T01:58:47.900Z'
+datePublished: '2017-10-29T01:58:48.557Z'
 title: Quienes somos
 author: []
 publisher: {}
@@ -21,6 +21,8 @@ _type: Article
 
 ---
 ## Quienes somos
+
+---
 
 Somos una agencia de Comunicación, representación artística y comercialización de espectáculos enfocada al artista, que ofrece un servicio estratégico y especializado en el cuidado y construcción de la reputación y credibilidad de sus clientes; evolucionamos permanentemente junto a las actuales tecnologías de la comunicación social.
 
@@ -39,4 +41,4 @@ Proyectos de éxito
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac74779-1e31-4db2-a9f7-61fc9b4d5bc2.jpg)
 
 **2017 Espectáculo. **_**"Dése un Chancecito"**_**. **En este proyecto nos encargamos de las relaciones publicas y la producción ejecutiva.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e49d02c-9d70-4020-8600-33799611e932.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/e514220d42165a81e591e4e885c06656/croprotate.jpg?cropheight=721&cropwidth=851&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7e49d02c-9d70-4020-8600-33799611e932.jpg&x=0&y=64)
