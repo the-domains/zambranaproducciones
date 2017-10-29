@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-10-29T02:10:07.030Z'
-datePublished: '2017-10-29T02:10:37.390Z'
+dateModified: '2017-10-29T02:13:59.139Z'
+datePublished: '2017-10-29T02:13:59.653Z'
 title: Quienes somos
 author: []
 publisher: {}
@@ -33,7 +33,7 @@ Comunicación a través de estrategias creativas y efectivas. Planeación estrat
 Proyectos de éxito
 
 **2015 Pelicula **_**"El Lugar Más Feliz del Mundo". **_En este proyecto no encargamos de las realciones publicas.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/52602669-f653-4831-9b1e-b4e908bad6c1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/968084b0-e88d-4855-b9a8-3171d9274ea2.jpg)
 
 **2016 Espectáculo **_**"Gallito Pinto 3"**_**. **En este proyecto nos encargamos de las relaciones publicas y la producción ejecutiva.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bac74779-1e31-4db2-a9f7-61fc9b4d5bc2.jpg)
