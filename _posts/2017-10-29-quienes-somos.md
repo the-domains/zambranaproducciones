@@ -6,8 +6,8 @@ description: >-
   especializado en el cuidado y construcción de la reputación y credibilidad de
   sus clientes; evolucionamos permanentemente junto a las actuales tecnologías
   de la comunicación social.
-dateModified: '2017-10-29T01:58:47.900Z'
-datePublished: '2017-10-29T01:58:48.557Z'
+dateModified: '2017-10-29T02:03:59.048Z'
+datePublished: '2017-10-29T02:03:59.676Z'
 title: Quienes somos
 author: []
 publisher: {}
@@ -31,6 +31,8 @@ Somos una agencia de Comunicación, representación artística y comercializaci�
 Nuestras áreas de especialidad son:
 
 Comunicación a través de estrategias creativas y efectivas. Planeación estratégica y marketing. Comercialización de eventos y campañas publicitarias. Producción audiovisual y de eventos.
+
+---
 
 Proyectos de éxito
 
