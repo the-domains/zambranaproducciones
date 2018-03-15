@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Podemos guiarle en el logro de sus objetivos comunicacionales.
-dateModified: '2017-10-06T22:53:40.777Z'
-datePublished: '2017-10-06T22:53:40.906Z'
+dateModified: '2018-03-15T05:38:11.761Z'
+datePublished: '2018-03-15T05:38:12.516Z'
 title: Utilice la poderosa herramienta del video en sus negocios.
 author: []
 publisher: {}
